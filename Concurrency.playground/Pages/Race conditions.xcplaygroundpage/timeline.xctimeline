@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Timeline
+   version = "3.0">
+   <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/asb/Developer/sf-concurrency-reading/Concurrency.playground/Pages/Race%20conditions.xcplaygroundpage#CharacterRangeLen=8&amp;CharacterRangeLoc=727&amp;EndingColumnNumber=46&amp;EndingLineNumber=30&amp;StartingColumnNumber=38&amp;StartingLineNumber=30&amp;Timestamp=540149215.645437"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/asb/Developer/sf-concurrency-reading/Concurrency.playground/Pages/Race%20conditions.xcplaygroundpage#CharacterRangeLen=8&amp;CharacterRangeLoc=729&amp;EndingColumnNumber=48&amp;EndingLineNumber=30&amp;StartingColumnNumber=40&amp;StartingLineNumber=30&amp;Timestamp=540149215.645627"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+   </TimelineItems>
+</Timeline>
